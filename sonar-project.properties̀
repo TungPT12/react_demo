@@ -1,5 +1,6 @@
-sonar.projectKey=sleroy:reactjs-demo
-sonar.projectName=ReactJS demo
+sonar.projectKey=TungPT12
+sonar.organization=tungpt12
+sonar.projectName=react_demo
 sonar.projectVersion=1.0
 sonar.sources=src
 sonar.sourceEncoding=UTF-8
