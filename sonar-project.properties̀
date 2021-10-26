@@ -1,6 +1,5 @@
-sonar.projectKey=TungPT12
+sonar.projectKey=TungPT12_react_demo
 sonar.organization=tungpt12
-sonar.projectName=react_demo
 sonar.projectVersion=1.0
 sonar.sources=src
 sonar.sourceEncoding=UTF-8
